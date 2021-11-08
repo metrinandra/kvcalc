@@ -1,10 +1,17 @@
+# Kvadrātvienādojuma kalkulators ax2 + bx + c = 0
+# Autors: Skolotāja
+# Izstrādes datums : 08.11.2021
+# Aprēķina kvadrātvienādojumu pēc lietotāja ievades a,b,c vērtībām 
+import math
 
-# Online Python - IDE, Editor, Compiler, Interpreter
+# TO-DO Jāsaņem lietotāja ievades vērtības a,b,c
+a = int(input("Ievadi a vertibu"))
 
-def sum(a, b):
-    return (a + b)
 
-a = int(input('Enter 1st number: '))
-b = int(input('Enter 2nd number: '))
+# TO-DO Jāpārbauda vērtības
+# TO-DO Jāaprēķina diskriminants
+# TO-DO Jāaprēķina saknes
+math.sqrt(d)
 
-print(f'Sum of {a} and {b} is {sum(a, b)}')
+# TO-DO Jāizvada saknes
+print()
